@@ -1,0 +1,2 @@
+# qlikpdf
+QlikTech pdf-documents
